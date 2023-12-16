@@ -24,6 +24,7 @@ const Header = () => {
                     <img src={logo} alt="logo" style={{ width: 95, marginBottom: 6 }} />
                 </Link>
                 <Link to={routePath.demo}>Demo</Link>
+                <Link to={routePath.play}>Play</Link>
             </Toolbar>
         </StyledAppBar>
     )
