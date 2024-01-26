@@ -26,6 +26,7 @@ const Header = () => {
                 <Link to={routePath.demo}>Demo</Link>
                 <Link to={routePath.play}>Play</Link>
                 <Link to={routePath.chart}>Chart</Link>
+                <Link to={routePath.download}>DL</Link>
             </Toolbar>
         </StyledAppBar>
     )

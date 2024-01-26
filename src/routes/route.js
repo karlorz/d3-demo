@@ -5,5 +5,6 @@ export const routePath = {
     demo       : '/demo',
     play       : '/play',
     chart       : '/chart',
+    download       : '/dl',
     invalid     : '/*' 
 }
