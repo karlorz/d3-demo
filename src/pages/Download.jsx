@@ -78,7 +78,7 @@ const Download = () => {
       <Box component="main" sx={{ p: 3 }}>
         <Toolbar />
         <div>
-          <h1>Bar Chart Example</h1>
+          <h1>Chart Download Example</h1>
           <ReportGenerator options={options} />
         </div>
       </Box>
